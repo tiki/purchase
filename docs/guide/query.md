@@ -1,6 +1,8 @@
-## Querying
+# Querying with AWS Athena
 
-The quickest path to querying and poking around the dataset is through the use of [AWS Athena](https://aws.amazon.com/athena/). Run standard SQL queries against the lake.
+The quickest path to getting up and running standard SQL queries against TIKI datasets is through the use of [AWS Athena](https://aws.amazon.com/athena/). 
+
+_NOTE: The instructions below are for the [Sample Cleanroom](../sample/README.md)_
 
 ### Add the data source
 
