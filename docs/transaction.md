@@ -10,6 +10,7 @@ Access requires an [AWS account](https://aws.amazon.com). To request access, pro
 - **Format**: Parquet
 - **Location**: AWS S3 (URL provided by TIKI rep.)
 - **Size:** ~50M unique transactions per month
+- **Geography:** United States
 
 **[Get a Sample](sample/README.md)**
 

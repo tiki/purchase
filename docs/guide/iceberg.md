@@ -1,5 +1,5 @@
 ## Connect with Iceberg
-With Iceberg, directly query data, create data frames, and plug results direct into your ETL. This guide assumes a familiarity with [Apache Iceberg](https://iceberg.apache.org).
+With Iceberg, directly query data, create dataframes, and plug results direct into your ETL. This guide assumes a familiarity with [Apache Iceberg](https://iceberg.apache.org).
 
 _NOTE: The instructions below are for the [Sample Cleanroom](../sample/README.md)_
 

@@ -12,7 +12,8 @@ Access requires an [AWS account](https://aws.amazon.com). To request access, pro
 - **Table Name**: demographic
 - **Format**: Parquet
 - **Location**: AWS S3 (URL provided by TIKI rep.)
-- **Size:** ~5 million US consumers
+- **Size:** ~5 million consumers
+- **Geography:** United States
 
 **[Get a Sample](sample/README.md)**
 
